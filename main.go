@@ -36,7 +36,7 @@ func main() {
          ],
          "person":{
             "name":"Anatolij",
-            "surname":"Kosolapenko",
+            "surname":"Potapenko",
             "personalCode":"101080-10300"
          }
       }
